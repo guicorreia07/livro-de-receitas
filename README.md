@@ -5,3 +5,5 @@
 ##### Receitas disponíveis:
 
 - Strogonoff de Frango
+- Pavê de Chocolate
+- Bolo de Cenoura com cobertura de Chocolate
